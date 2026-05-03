@@ -9,6 +9,17 @@ A multithreaded task scheduler implemented in C++ using a thread pool, condition
 - Asynchronous task execution with `std::future`
 - Graceful shutdown of worker threads
 - Demonstrates real parallel speedup
+## 📂 Project Structure
+
+```
+cpp-task-scheduler/
+│
+├── include/     # header files
+├── src/         # Source code
+├── CMakeLists.txt
+└── README.md
+
+
 
 
 
